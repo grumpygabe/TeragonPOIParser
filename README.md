@@ -1,5 +1,9 @@
+# Requirements
+This script requires Python 3.10 to run.
+No command line options.  It will prompt for a directory, and will search that directory tree for POIs.
+
 # TeragonPOIParser
- A utility script for automatically generating the text needed to load POIs in to Teragon's "Read POI Properties List" when given a directory containing custom POIs.
+A utility script for automatically generating the text needed to load POIs in to Teragon's "Read POI Properties List" when given a directory containing custom POIs.
  
  _Note that you will still need to use the 'Add Source Path' command and point to your POI directory for Teragon to recognize and correctly place POIs._
  
